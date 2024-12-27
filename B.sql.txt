@@ -1,1 +1,5 @@
 SQL Commands
+
+we can see the different types of operators.
+GoupBy And Having.
+Types of SQL Commands.
